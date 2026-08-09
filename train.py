@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas 
 from sklearn.linear_model import LinearRegression
 
 df = pd.read_csv("data/house_prices.csv")
