@@ -1,0 +1,6 @@
+outs:
+- md5: 206f602ea955ac5375841745d357594c
+  size: 59
+  isexec: true
+  hash: md5
+  path: house_prices.csv
