@@ -6,4 +6,4 @@ X = df[["area"]]
 y = df["price"]
 
 model = LinearRegression().fit(X, y)
-print("Model trained. Score:", model.score(X, y))
+print("Model trained. Score1:", model.score(X, y))
